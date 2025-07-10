@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: ContadorDeS
+Version: 0.1
+Summary: Cuenta las veces que aparece la letra s en un texto
+Home-page: https://github.com/NicoIAAR
+Download-URL: https://github.com/NicoIAAR/StrawberryFilter
+Author: Nico
+Author-email: 
+License: MIT
+Keywords: strawberry,python,pip
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: download-url
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: summary
+
+Contador de letras 's' en un texto.

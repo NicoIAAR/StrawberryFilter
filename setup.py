@@ -4,8 +4,8 @@ readme = open("./README.md", "r")
 
 
 setup(
-    name='ContadorDeS',
-    packages=['ContadorDeS'],  # this must be the same as the name above
+    name='StrawberryFilter',
+    packages=['StrawberryFilter'],  # this must be the same as the name above
     version='0.1',
     description='Cuenta las veces que aparece la letra s en un texto',
     long_description=readme.read(),

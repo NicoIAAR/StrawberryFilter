@@ -1,0 +1,8 @@
+README.md
+setup.py
+StrawberryFilter/__init__.py
+StrawberryFilter/strawberry_filter.py
+StrawberryFilter.egg-info/PKG-INFO
+StrawberryFilter.egg-info/SOURCES.txt
+StrawberryFilter.egg-info/dependency_links.txt
+StrawberryFilter.egg-info/top_level.txt
