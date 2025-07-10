@@ -14,7 +14,7 @@ setup(
     author_email='',
     # use the URL to the github repo
     url='https://github.com/NicoIAAR',
-    download_url='',
+    download_url='https://github.com/NicoIAAR/StrawberryFilter',
     keywords=['strawberry', 'python', 'pip'],
     classifiers=[ ],
     license='MIT',
